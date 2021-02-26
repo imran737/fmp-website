@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+    width: 70%;
+}
+
+.col{
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+    width: 40%;
+}
+
+.asd{
+    border: black 1px solid;
+}
